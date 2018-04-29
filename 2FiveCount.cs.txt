@@ -1,0 +1,14 @@
+?*Lists and Strings: Write a static method to print out 
+each word in a list that has exactly 5 letters.*/                                                                                                         using System;                                              namespace FiveCount
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int[] x = {apple, peach, plum, banana, strawberry, berry};
+            foreach (int i in x; i.Contains(i.Count) == 5)                                                   {
+    Console.WriteLine(i);
+}
+        }
+    }
+}

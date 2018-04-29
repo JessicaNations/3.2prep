@@ -1,0 +1,20 @@
+/*Lists: Write a static method to find the sum 
+of all the even numbers in a list. Within Main, 
+create a list with at least 10 integers and call 
+your method on the list.*/                                                                                              using System;
+
+namespace Listevens
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int[] someInts = new int[10];
+            
+            if (int i / 2 == 0; i < 10; i++ )
+            {
+                Console.WriteLine(i);
+            };
+         }
+    }
+}
